@@ -5,6 +5,10 @@ The following files contained within the BIRT deliverable have been modified:
 
 https://download.eclipse.org/birt/downloads/drops/R-R1-4.8.0-201806261756/birt-source-4.8.0-20180626.zip :
 
+ - plugins.org.eclipse.birt.report.viewer.source_4.8.0.v201806261756.jar/org/eclipse/birt/viewer.properties
+ - plugins.org.eclipse.birt.report.viewer.source_4.8.0.v201806261756.jar/org/eclipse/birt/report/context/ViewerAttributeBean.java
+ - plugins.org.eclipse.birt.report.viewer.source_4.8.0.v201806261756.jar/org/eclipse/birt/report/resource/Messages.properties
+ - plugins.org.eclipse.birt.report.viewer.source_4.8.0.v201806261756.jar/org/eclipse/birt/report/resource/ResourceConstants.java
  - plugins.org.eclipse.birt.report.viewer.source_4.8.0.v201806261756.jar/org/eclipse/birt/report/soapengine/endpoint/BirtSoapBindingImpl.java
  - plugins.org.eclipse.birt.report.viewer.source_4.8.0.v201806261756.jar/org/eclipse/birt/report/utility/BirtUtility.java
  - plugins.org.eclipse.birt.report.viewer.source_4.8.0.v201806261756.jar/org/eclipse/birt/report/utility/DataUtil.java
