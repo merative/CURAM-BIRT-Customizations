@@ -23,7 +23,7 @@ import java.util.HashSet;
 import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
-/* END CURAM-BIRT-CODE-CHANGE */
+/* BEGIN CURAM-BIRT-CODE-CHANGE */
 import java.util.Set;
 /* END CURAM-BIRT-CODE-CHANGE */
 import javax.servlet.http.HttpServletRequest;
